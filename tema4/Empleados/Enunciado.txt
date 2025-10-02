@@ -6,7 +6,7 @@ Legajo
 Nombre
 Apellido
 Sueldo básico
-La tercera columna depende del tipo de empleado, en el caso de los obreros indica la cantidad de días trabajados en el mes, en el caso de los administrativos indica si le corresponde cobrar presentismo y en el caso de los vendedores indica el importe total de ventas realizadas en mes.
+La ultima columna depende del tipo de empleado, en el caso de los obreros indica la cantidad de días trabajados en el mes, en el caso de los administrativos indica si le corresponde cobrar presentismo y en el caso de los vendedores indica el importe total de ventas realizadas en mes.
 Por cada tipo de empleados el sueldo se calcula de una forma diferente:
 
 En el caso de los obreros, el sueldo básico corresponde a un mes de 20 días laborables, y el sueldo a cobrar debe ser un propocional a la cantidad de días efectivamente trabajados.
@@ -17,3 +17,4 @@ Luego de la carga:
 Calcular el total a pagar de sueldos
 Contar los empleados por tipo (tres totales)
 Buscar un empleado por legajo y mostrar el sueldo a pagar
+Plantel de empleados
